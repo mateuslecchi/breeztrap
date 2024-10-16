@@ -2,4 +2,4 @@
 
 Project under construction.
 
-Based on (https://github.com/nascent-africa/jetstrap)[https://github.com/nascent-africa/jetstrap]
+Based on https://github.com/nascent-africa/jetstrap
